@@ -40,14 +40,15 @@ Plot of the training loss over epochs.
 
 ### Latent Space Visualization
 Visualizing the learned features in the latent space.
+
 ![Latent Space](./output_3.png)
-![Latent Space](./output_4.png)
 ![Latent Space](./output_5.png)
+![Output 6](./output_6.png)
+![Output 7](./output_7.png)
 
 ### Reconstructions and Training Progress
 Various outputs showing the model's performance and training progression.
-![Output 6](./output_6.png)
-![Output 7](./output_7.png)
+
 ![Output 8](./output_8.png)
 ![Output 9](./output_9.png)
 ![Output 10](./output_10.png)
