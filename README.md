@@ -1,6 +1,6 @@
 # Character Recognition using Convolutional Autoencoder
 
-This project implements a Convolutional Autoencoder (ConvAE) for character recognition/reconstruction using the MNIST dataset. The model learns to compress images into a low-dimensional latent space and then reconstruct them.
+This project implements a Convolutional Autoencoder (ConvAE) for character recognition/reconstruction using the MNIST dataset. The model learns to compress images into a low-dimensional latent space and then reconstruct them. 
 
 ## Project Structure
 
@@ -45,6 +45,9 @@ Visualizing the learned features in the latent space.
 ![Latent Space](./output_5.png)
 ![Output 6](./output_6.png)
 ![Output 7](./output_7.png)
+
+### Latent Space Validation
+Validated latent space quality by implementing a K-Nearest Neighbors (KNN) classifier on low-dimensional embeddings, achieving 65% accuracy in identifying characters from highly compressed features.
 
 ### Reconstructions and Training Progress
 Various outputs showing the model's performance and training progression.
