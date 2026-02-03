@@ -40,6 +40,7 @@ Plot of the training loss over epochs.
 
 ### Latent Space Visualization
 Visualizing the learned features in the latent space.
+
 ![Latent Space](./output_3.png)
 ![Latent Space](./output_5.png)
 ![Output 6](./output_6.png)
